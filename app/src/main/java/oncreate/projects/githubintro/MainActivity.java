@@ -12,7 +12,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-    //Sent from alt account
+    //Sent from alt account, check
+    
     public void showToast(View v){
         Toast.makeText(this,"Test 2",Toast.LENGTH_LONG).show();
     }
