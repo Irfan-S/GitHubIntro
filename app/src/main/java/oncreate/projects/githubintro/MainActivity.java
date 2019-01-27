@@ -13,7 +13,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     //Sent from alt account, check
-    
+
+    //asdaddsadadasda
+
     public void showToast(View v){
         Toast.makeText(this,"Test 2",Toast.LENGTH_LONG).show();
     }
